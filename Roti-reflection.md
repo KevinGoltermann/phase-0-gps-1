@@ -1,4 +1,4 @@
-#h1 GPS Reflection 
+# GPS Reflection 
 
 * The git concepts I've been struggling on before this session were pull requests from Github. I didn't fully understand how to merge it into the master but after the GPS session I was able to full understand that as well as conflicts with commits and merging.
 
