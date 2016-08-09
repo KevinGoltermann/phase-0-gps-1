@@ -1,4 +1,6 @@
-# phase-0-gps-1  498  git branch
+```
+  phase-0-gps-1  
+  498  git branch
   499  ls
   500  cd
   501  cd desktop-changes directory
@@ -18,3 +20,4 @@
   515  history- shows history of terminal
   516  history 20- shows last 20 inputs of terminal
   517  history 20 >> README.md -transfers last 20 terminal inputs to file
+```
