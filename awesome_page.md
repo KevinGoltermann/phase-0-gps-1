@@ -1,4 +1,4 @@
-** This thing is awesome, so it's bold **
+**This thing is awesome, so it's bold**
 * This thing is awesome too, so not it's italic *
 
 ```
